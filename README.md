@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KT-NSCORP
+- 👋 Hi, I’m @KJY_228
 - 👀 I’m interested in discovering who I am and what I can contribute to making a better world.
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on web and software development.
